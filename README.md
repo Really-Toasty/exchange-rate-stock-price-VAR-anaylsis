@@ -1,5 +1,5 @@
 # exchange-rate-stock-price-VAR-anaylsis
-Using vector autoregressive regressions, I explore the relationship between exchange rates and the ftse100.#
+Using vector autoregressive regressions, I explore the relationship between exchange rates and the ftse100.
 
 ![index](https://github.com/user-attachments/assets/96e4cf8d-d6a1-459f-b7aa-cc3160f75ac6)
 
